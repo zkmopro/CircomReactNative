@@ -1,0 +1,4 @@
+module circom_prover_bindingsFFI {
+    header "circom_prover_bindingsFFI.h"
+    export *
+}

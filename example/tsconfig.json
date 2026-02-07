@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "mopro-react-native-package": ["../src/index"],
+      "mopro-react-native-package/*": ["../src/*"]
+    }
+  }
+}
