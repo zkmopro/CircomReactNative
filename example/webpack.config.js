@@ -6,7 +6,7 @@ module.exports = async (env, argv) => {
     {
       ...env,
       babel: {
-        dangerouslyAddModulePathsToTranspile: ['circom-prover'],
+        dangerouslyAddModulePathsToTranspile: ['circom-react-native'],
       },
     },
     argv

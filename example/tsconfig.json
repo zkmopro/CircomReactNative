@@ -3,8 +3,8 @@
   "compilerOptions": {
     "strict": true,
     "paths": {
-      "circom-prover": ["../src/index"],
-      "circom-prover/*": ["../src/*"]
+      "circom-react-native": ["../src/index"],
+      "circom-react-native/*": ["../src/*"]
     }
   }
 }

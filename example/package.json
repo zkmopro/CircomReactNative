@@ -1,5 +1,5 @@
 {
-  "name": "circom-prover-example",
+  "name": "circom-react-native-example",
   "license": "0BSD",
   "version": "1.0.0",
   "main": "index.ts",

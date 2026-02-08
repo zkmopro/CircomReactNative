@@ -19,7 +19,7 @@ config.resolver.nodeModulesPaths = [
 ];
 
 config.resolver.extraNodeModules = {
-  'circom-prover': '..',
+  'circom-react-native': '..',
 };
 
 config.watchFolders = [path.resolve(__dirname, '..')];

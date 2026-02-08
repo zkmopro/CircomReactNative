@@ -1,5 +1,5 @@
 {
-  "name": "circom-prover",
+  "name": "circom-react-native",
   "version": "0.1.0",
   "description": "My new module",
   "main": "build/index.js",
@@ -18,8 +18,8 @@
   "keywords": [
     "react-native",
     "expo",
-    "circom-prover",
-    "CircomProver"
+    "circom-react-native",
+    "circom"
   ],
   "repository": "https://github.com/zkmopro/CircomReactNative",
   "bugs": {

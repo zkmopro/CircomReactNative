@@ -8,7 +8,7 @@ import MoproReactNativePackage, {
     CircomProof,
     CircomProofLib,
     ProofLibOption,
-} from "circom-prover";
+} from "circom-react-native";
 import * as FileSystem from "expo-file-system";
 import { useState } from "react";
 import { Asset } from "expo-asset";

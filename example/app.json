@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "circom-prover-example",
-    "slug": "circom-prover-example",
+    "name": "circom-react-native-example",
+    "slug": "circom-react-native-example",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
