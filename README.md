@@ -141,6 +141,20 @@ npm run android
 > And make sure the Android `minSdkVersion` is set to 28.
 > 
 
+## Troubleshooting
+
+If you see errors like this:
+
+```sh
+Unable to resolve "./assets/keys/multiplier2_final.zkey" from "app/(tabs)/index.tsx"
+```
+
+To make `.zkey` and `.bin` files accessible as assets, update [`metro.config.js`](metro.config.js) like this:
+
+```js
+config.resolver.assetExts.push('zkey');
+config.resolver.assetExts.push('bin');
+```
 
 ## Community
 
