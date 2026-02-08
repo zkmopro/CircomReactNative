@@ -99,6 +99,10 @@ TODO: documentation how to build the package
 
 Use the example app folder:
 
+```sh
+cd example
+```
+
 1. Install the dependencies
 
 ```sh
