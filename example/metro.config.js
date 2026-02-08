@@ -19,7 +19,7 @@ config.resolver.nodeModulesPaths = [
 ];
 
 config.resolver.extraNodeModules = {
-  'mopro-react-native-package': '..',
+  'circom-prover': '..',
 };
 
 config.watchFolders = [path.resolve(__dirname, '..')];

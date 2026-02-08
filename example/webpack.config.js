@@ -6,7 +6,7 @@ module.exports = async (env, argv) => {
     {
       ...env,
       babel: {
-        dangerouslyAddModulePathsToTranspile: ['mopro-react-native-package'],
+        dangerouslyAddModulePathsToTranspile: ['circom-prover'],
       },
     },
     argv

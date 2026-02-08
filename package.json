@@ -1,5 +1,5 @@
 {
-  "name": "mopro-react-native-package",
+  "name": "circom-prover",
   "version": "0.1.0",
   "description": "My new module",
   "main": "build/index.js",
@@ -18,16 +18,16 @@
   "keywords": [
     "react-native",
     "expo",
-    "mopro-react-native-package",
-    "MoproReactNativePackage"
+    "circom-prover",
+    "CircomProver"
   ],
-  "repository": "https://github.com/zkmopro/mopro-react-native-package",
+  "repository": "https://github.com/zkmopro/CircomReactNative",
   "bugs": {
-    "url": "https://github.com/zkmopro/mopro-react-native-package/issues"
+    "url": "https://github.com/zkmopro/CircomReactNative/issues"
   },
   "author": "Ya-wen, Jeng <vivi432@yahoo.com.tw> (zkmopro)",
   "license": "MIT",
-  "homepage": "https://github.com/zkmopro/mopro-react-native-package#readme",
+  "homepage": "https://github.com/zkmopro/CircomReactNative#readme",
   "dependencies": {},
   "devDependencies": {
     "@types/react": "~18.3.12",
